@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/video-annotator/static/css/main.bb324302.css",
-    "main.js": "/video-annotator/static/js/main.bbb8d359.js",
+    "main.js": "/video-annotator/static/js/main.8d24ebfd.js",
     "reactPlayerYouTube.js": "/video-annotator/static/js/reactPlayerYouTube.b4e00760.chunk.js",
     "reactPlayerSoundCloud.js": "/video-annotator/static/js/reactPlayerSoundCloud.ca53d71f.chunk.js",
     "reactPlayerVimeo.js": "/video-annotator/static/js/reactPlayerVimeo.1a7278fb.chunk.js",
@@ -77,7 +77,7 @@
     "static/media/roboto-greek-ext-400-normal.woff": "/video-annotator/static/media/roboto-greek-ext-400-normal.16eb83b4a3b1ea994243.woff",
     "index.html": "/video-annotator/index.html",
     "main.bb324302.css.map": "/video-annotator/static/css/main.bb324302.css.map",
-    "main.bbb8d359.js.map": "/video-annotator/static/js/main.bbb8d359.js.map",
+    "main.8d24ebfd.js.map": "/video-annotator/static/js/main.8d24ebfd.js.map",
     "reactPlayerYouTube.b4e00760.chunk.js.map": "/video-annotator/static/js/reactPlayerYouTube.b4e00760.chunk.js.map",
     "reactPlayerSoundCloud.ca53d71f.chunk.js.map": "/video-annotator/static/js/reactPlayerSoundCloud.ca53d71f.chunk.js.map",
     "reactPlayerVimeo.1a7278fb.chunk.js.map": "/video-annotator/static/js/reactPlayerVimeo.1a7278fb.chunk.js.map",
@@ -98,6 +98,6 @@
   },
   "entrypoints": [
     "static/css/main.bb324302.css",
-    "static/js/main.bbb8d359.js"
+    "static/js/main.8d24ebfd.js"
   ]
 }
